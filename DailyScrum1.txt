@@ -1,0 +1,35 @@
+Scrum Master	: Edwan Santoso
+=============================
+
+Rabu, 4 Desember 2019
+==================
+
+Edwan Santoso
+1. Kemarin mengerjakan apa?
+Jawab : Kemarin Scrum Master, Development team dan Product Owner melakukan meeting untuk membahas rancangan product yang akan dikerjakan. 
+
+2. Apa yang akan dikerjakan hari ini?
+Jawab : Mendesign tampilan visual yang akan digunakan dalam product dan mengupload design tersebut kedalam github.
+
+3. Ada masalah dalam pengerjaan tugas?
+Jawab : Tidak ada masalah.
+
+Alvin
+1. Kemarin mengerjakan apa?
+Jawab : Kemarin Scrum Master, Development team dan Product Owner melakukan meeting untuk membahas rancangan product yang akan dikerjakan. 
+
+2. Apa yang akan dikerjakan hari ini?
+Jawab : Melakukan coding javascript tahap awal untuk product.
+
+3. Ada masalah dalam pengerjaan tugas?
+Jawab : Tidak ada masalah.
+
+Kelvin
+1. Kemarin mengerjakan apa?
+Jawab : Sebagai product owner, kelvin menjelaskan kepada Scrum Master dan Development team tentang product yang diinginkan.
+
+2. Apa yang akan dikerjakan hari ini?
+Jawab : melakukan pengecekan terhadap hasil kerja Scrum Master dan Development team.
+
+3. Ada masalah dalam pengerjaan tugas?\
+Jawab : Tidak ada masalah.
