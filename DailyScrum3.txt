@@ -1,0 +1,36 @@
+Scrum Master	: Edwan Santoso
+=============================
+
+Kamis, 6 Desember 2019
+==================
+
+Alvin
+1. Kemarin mengerjakan apa?
+Jawab : Melakukan pengecekan terhadap coding tahap 2 yang dikerjakan oleh development team.
+
+2. Apa yang akan dikerjakan hari ini?
+Jawab : Melakukan pengecekan terhadap coding tahap 3 yang dikerjakan oleh development team (Kelvin)
+
+3. Ada masalah dalam pengerjaan tugas?
+Jawab : Tidak ada masalah.
+
+Kelvin
+1. Kemarin mengerjakan apa?
+Jawab : Melakukan coding javascript untuk menjalankan animasi permainan, dan juga telah menambahkan kontrol permainan.
+
+2. Apa yang akan dikerjakan hari ini?
+Jawab : Melakukan coding javascript tahap ke 3 untuk product. Dilakukan penambahan item pada permainan berfungsi sebagai
+	pendukung gameplay yang lebih baik.
+
+3. Ada masalah dalam pengerjaan tugas?
+Jawab : Tidak ada masalah.
+
+Edwan
+1. Kemarin mengerjakan apa?
+Jawab : Melakukan pengecekan terhadap hasil kerja Scrum Master dan Development team (Design visual dan coding tahap 2).
+
+2. Apa yang akan dikerjakan hari ini?
+Jawab : Melakukan pengecekan terhadap hasil kerja Scrum Master dan Development team (Coding tahap 3).
+
+3. Ada masalah dalam pengerjaan tugas?
+Jawab : Tidak ada masalah.
