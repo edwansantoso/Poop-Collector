@@ -1,0 +1,35 @@
+Scrum Master	: Kelvin
+==============================
+
+Minggu, 8 Desember 2019
+===================
+
+Kelvin
+1. Kemarin mengerjakan apa?
+Jawab : Memverifikasi kembali hasil kerja Scrum Master (Alvin).
+
+2. Apa yang akan dikerjakan hari ini?
+Jawab : Melakukan pengecekan terhadap coding tahap 5 yang dikerjakan oleh development team (Edwan).
+
+3. Ada masalah dalam pengerjaan tugas?
+Jawab : Tidak ada masalah.
+
+Edwan
+1. Kemarin mengerjakan apa?
+Jawab : Melakukan pengecekan terhadap hasil kerja Scrum Master dan Development team (Coding tahap 4).
+
+2. Apa yang akan dikerjakan hari ini?
+Jawab : Melakukan Coding Javascript untuk Beta Version 2 (MultiPlayer).
+
+3. Ada masalah dalam pengerjaan tugas?
+Jawab : Tidak ada masalah.
+
+Alvin
+1. Kemarin mengerjakan apa?
+Jawab : Melakukan coding javascript untuk menambahkan Rage Mode pada player saat terjadi collision dengan objek item.
+
+2. Apa yang akan dikerjakan hari ini?
+Jawab : Melakukan pengecekan terhadap hasil kerja Scrum Master dan Development team (Coding tahap 5).
+
+3. Ada masalah dalam pengerjaan tugas?
+Jawab : Tidak ada masalah.
