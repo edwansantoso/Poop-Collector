@@ -1,0 +1,36 @@
+Scrum Master	: Alvin Setiadi
+==============================
+
+Sabtu, 7 Desember 2019
+===================
+
+Alvin
+1. Kemarin mengerjakan apa?
+Jawab : Melakukan pengecekan terhadap coding tahap 3 yang dikerjakan oleh development team (Kelvin)
+
+2. Apa yang akan dikerjakan hari ini?
+Jawab : Melakukan coding javascript untuk menambahkan Rage Mode pada player saat terjadi collision dengan objek item.
+
+3. Ada masalah dalam pengerjaan tugas?
+Jawab : Tidak ada masalah.
+
+Kelvin
+1. Kemarin mengerjakan apa?
+Jawab : Melakukan coding javascript tahap ke 3 untuk product. Dilakukan penambahan item pada permainan berfungsi sebagai
+	pendukung gameplay yang lebih baik.
+
+2. Apa yang akan dikerjakan hari ini?
+Jawab : Memverifikasi kembali hasil kerja Scrum Master
+
+3. Ada masalah dalam pengerjaan tugas?
+Jawab : Tidak ada masalah.
+
+Edwan
+1. Kemarin mengerjakan apa?
+Jawab : Melakukan pengecekan terhadap hasil kerja Scrum Master dan Development team (Coding tahap 3).
+
+2. Apa yang akan dikerjakan hari ini?
+Jawab : Melakukan pengecekan terhadap hasil kerja Scrum Master dan Development team (Coding tahap 4).
+
+3. Ada masalah dalam pengerjaan tugas?
+Jawab : Tidak ada masalah.
