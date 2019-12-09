@@ -1,0 +1,35 @@
+Scrum Master	: Kelvin
+==============================
+
+Senin, 9 Desember 2019
+===================
+
+Kelvin
+1. Kemarin mengerjakan apa?
+Jawab : Melakukan pengecekan terhadap coding tahap 5 yang dikerjakan oleh development team (Edwan).
+
+2. Apa yang akan dikerjakan hari ini?
+Jawab : Melakukan Coding Fix Bug Gameplay dan mengakhiri Project Poop-Collector.
+
+3. Ada masalah dalam pengerjaan tugas?
+Jawab : Tidak ada masalah.
+
+Edwan
+1. Kemarin mengerjakan apa?
+Jawab : Melakukan Coding Javascript untuk Beta Version 2 (MultiPlayer).
+
+2. Apa yang akan dikerjakan hari ini?
+Jawab : Melakukan pengecekan terhadap hasil kerja Scrum Master (Kelvin).
+
+3. Ada masalah dalam pengerjaan tugas?
+Jawab : Tidak ada masalah.
+
+Alvin
+1. Kemarin mengerjakan apa?
+Jawab : Melakukan pengecekan terhadap hasil kerja Scrum Master dan Development team (Coding tahap 5).
+
+2. Apa yang akan dikerjakan hari ini?
+Jawab : Melakukan pengecekan terhadap hasil kerja Scrum Master (Kelvin) dan menyetujui Project Poop-Collector.
+
+3. Ada masalah dalam pengerjaan tugas?
+Jawab : Tidak ada masalah.
